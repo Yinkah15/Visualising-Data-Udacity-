@@ -1,5 +1,5 @@
-# (Exploring Loan Data from Prosper)
-## by (Ibiyinka Daramola)
+# Exploring Loan Data from Prosper
+## (by Ibiyinka Daramola)
 
 
 ## Dataset
