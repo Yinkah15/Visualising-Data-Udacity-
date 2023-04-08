@@ -12,6 +12,10 @@ This data set contains 113,937 loans with 81 variables on each loan from a loan 
                 Selecting only few relevant columns
                 Adjusting data types
                 Specifically changing IncomeRange and Prosper score to Ordered Categorical Datatype
+## Project Files
+The project files contain:
+1) Jupyter notebook and html files of step-by-step sourcing, wrangling , analysis and visualisation of the data (Part_I_Prosper_Loan_Exploration.ipynb/html)
+2) A short presentation of the key insights through visualisations (Part_II_Prosper_Loan_slide_deck.ipynb)
 
 ## Summary of Findings
 
